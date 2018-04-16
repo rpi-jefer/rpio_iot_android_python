@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RPI</string>
+    <string name="estado_switch">Estado Switch</string>
+    <string name="control_led">Conrol Led</string>
+</resources>

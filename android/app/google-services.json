@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "742143372904",
+    "firebase_url": "https://rpi-demo-e24dd.firebaseio.com",
+    "project_id": "rpi-demo-e24dd",
+    "storage_bucket": "rpi-demo-e24dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742143372904:android:7ad6103ecc2709f1",
+        "android_client_info": {
+          "package_name": "com.app.rpi.rpi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742143372904-so0mamdm1ejrhklm7mcglltgs3t9a8vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXvGd25y5NtsCshtY7d2J4468PXyVrNgA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
