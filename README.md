@@ -1,5 +1,5 @@
 # RASPBERRY PI  IOT CON PYTHON Y FIREBASE
 <center>
-<img src="io_rpi.jpg">
+<img src="iot_rpi.jpg">
 </center>
 
