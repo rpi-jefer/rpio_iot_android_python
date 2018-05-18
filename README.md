@@ -8,6 +8,13 @@
   VER TUTORIAL
 </a>
  
+ <p></p>
+
+<a href="https://www.youtube.com/watch?v=pcryAtHpvCE&t=375s" target="_blank">
+  TUTORIAL EN YOUTUBE
+</a>
+  
+ 
  
   
 </center>
